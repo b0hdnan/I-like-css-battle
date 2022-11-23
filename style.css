@@ -46,3 +46,17 @@ h1 {
 .battle__name {
 	text-align: center;
 }
+
+
+.el1{
+	width: 100px;
+	height: 100px;
+	margin:0 auto;
+	
+	background: #F7EC7D;
+	border-radius: 100px 100px 0px 0px;
+}
+.some{
+	width: 100%;
+	background:#62306D;
+}
